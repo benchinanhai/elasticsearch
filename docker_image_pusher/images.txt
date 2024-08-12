@@ -1,0 +1,4 @@
+elasticsearch
+registry.cn-hangzhou.aliyuncs.com/xj-image/elasticsearch:8.10.2
+xj/alist:latest
+--platform=linux/arm64 xj/alist
